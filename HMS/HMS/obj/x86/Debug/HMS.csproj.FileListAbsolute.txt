@@ -1,0 +1,9 @@
+d:\micah2\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\micah2\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.Form1.resources
+d:\micah2\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.Properties.Resources.resources
+d:\micah2\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\micah2\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\micah2\documents\visual studio 2010\Projects\HMS\HMS\bin\Debug\HMS.exe
+d:\micah2\documents\visual studio 2010\Projects\HMS\HMS\bin\Debug\HMS.pdb
+d:\micah2\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.exe
+d:\micah2\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.pdb

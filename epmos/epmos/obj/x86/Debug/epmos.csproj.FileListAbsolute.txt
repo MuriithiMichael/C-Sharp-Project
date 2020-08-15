@@ -1,0 +1,15 @@
+d:\micah2\documents\visual studio 2010\Projects\epmos\epmos\bin\Debug\epmos.exe
+d:\micah2\documents\visual studio 2010\Projects\epmos\epmos\bin\Debug\epmos.pdb
+d:\micah2\documents\visual studio 2010\Projects\epmos\epmos\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\micah2\documents\visual studio 2010\Projects\epmos\epmos\obj\x86\Debug\epmos.Organizer.resources
+d:\micah2\documents\visual studio 2010\Projects\epmos\epmos\obj\x86\Debug\epmos.Properties.Resources.resources
+d:\micah2\documents\visual studio 2010\Projects\epmos\epmos\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\micah2\documents\visual studio 2010\Projects\epmos\epmos\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\micah2\documents\visual studio 2010\Projects\epmos\epmos\obj\x86\Debug\epmos.exe
+d:\micah2\documents\visual studio 2010\Projects\epmos\epmos\obj\x86\Debug\epmos.pdb
+d:\micah2\documents\visual studio 2010\Projects\epmos\epmos\obj\x86\Debug\epmos.Administrator.resources
+d:\micah2\documents\visual studio 2010\Projects\epmos\epmos\obj\x86\Debug\epmos.Login.resources
+d:\micah2\documents\visual studio 2010\Projects\epmos\epmos\bin\Debug\hospital.sdf
+d:\micah2\documents\visual studio 2010\Projects\epmos\epmos\bin\Debug\epmos.exe.config
+d:\micah2\documents\visual studio 2010\Projects\epmos\epmos\obj\x86\Debug\epmos.Registration.resources
+d:\micah2\documents\visual studio 2010\Projects\epmos\epmos\obj\x86\Debug\epmos.Homepage.resources

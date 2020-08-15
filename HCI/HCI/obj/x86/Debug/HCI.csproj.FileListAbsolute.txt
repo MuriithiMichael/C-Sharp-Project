@@ -1,0 +1,16 @@
+d:\micah2\documents\visual studio 2010\Projects\HCI\HCI\bin\Debug\HCI.exe
+d:\micah2\documents\visual studio 2010\Projects\HCI\HCI\bin\Debug\HCI.pdb
+d:\micah2\documents\visual studio 2010\Projects\HCI\HCI\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\micah2\documents\visual studio 2010\Projects\HCI\HCI\obj\x86\Debug\HCI.Form1.resources
+d:\micah2\documents\visual studio 2010\Projects\HCI\HCI\obj\x86\Debug\HCI.MDIParent1.resources
+d:\micah2\documents\visual studio 2010\Projects\HCI\HCI\obj\x86\Debug\HCI.Properties.Resources.resources
+d:\micah2\documents\visual studio 2010\Projects\HCI\HCI\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\micah2\documents\visual studio 2010\Projects\HCI\HCI\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\micah2\documents\visual studio 2010\Projects\HCI\HCI\obj\x86\Debug\HCI.exe
+d:\micah2\documents\visual studio 2010\Projects\HCI\HCI\obj\x86\Debug\HCI.pdb
+d:\micah2\documents\visual studio 2010\Projects\HCI\HCI\obj\x86\Debug\HCI.Start.resources
+d:\micah2\documents\visual studio 2010\Projects\HCI\HCI\obj\x86\Debug\HCI.Shopping.resources
+d:\micah2\documents\visual studio 2010\Projects\HCI\HCI\obj\x86\Debug\HCI.Rent.resources
+d:\micah2\documents\visual studio 2010\Projects\HCI\HCI\obj\x86\Debug\HCI.Bills.resources
+d:\micah2\documents\visual studio 2010\Projects\HCI\HCI\obj\x86\Debug\HCI.Savings.resources
+d:\micah2\documents\visual studio 2010\Projects\HCI\HCI\obj\x86\Debug\HCI.Transport.resources
